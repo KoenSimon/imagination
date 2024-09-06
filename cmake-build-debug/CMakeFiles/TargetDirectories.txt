@@ -1,0 +1,3 @@
+/home/kore/CLionProjects/KNN_Server/cmake-build-debug/CMakeFiles/KNN_Server.dir
+/home/kore/CLionProjects/KNN_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kore/CLionProjects/KNN_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

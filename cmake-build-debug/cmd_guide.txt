@@ -1,0 +1,4 @@
+kore@ubuntu:~/CLionProjects/KNN_Server/cmake-build-debug$ ./KNN_Server 1 8765 1
+kore@ubuntu:~/CLionProjects/KNN_Server/cmake-build-debug$ ./KNN_Server 2 8765 1
+kore@ubuntu:~/CLionProjects/multi_thread_knn/cmake-build-debug/client$ ./clients2 7523 (note that 7523 is useless since code hardcode the port, need to modify...)
+
