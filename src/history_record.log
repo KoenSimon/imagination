@@ -1,0 +1,308 @@
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:48:53 2021
+This phase took 0.000114 s.Wed Dec  1 01:48:53 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:51:54 2021
+This phase took 0.000102 s.Wed Dec  1 01:51:54 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:54:44 2021
+This phase took 8.8e-05 s.Wed Dec  1 01:54:44 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:55:57 2021
+This phase took 9.5e-05 s.Wed Dec  1 01:55:57 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:57:16 2021
+This phase took 0.000123 s.Wed Dec  1 01:57:16 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:58:47 2021
+This phase took 8e-05 s.Wed Dec  1 01:58:47 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 01:59:29 2021
+This phase took 0.000117 s.Wed Dec  1 01:59:29 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:00:16 2021
+This phase took 0.00011 s.Wed Dec  1 02:00:16 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:00:28 2021
+This phase took 0.0001 s.Wed Dec  1 02:00:28 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:05:34 2021
+This phase took 7.8e-05 s.Wed Dec  1 02:05:34 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:06:28 2021
+This phase took 0.000106 s.Wed Dec  1 02:06:28 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:06:44 2021
+This phase took 9.1e-05 s.Wed Dec  1 02:06:44 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:07:07 2021
+This phase took 8.4e-05 s.Wed Dec  1 02:07:07 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:14:14 2021
+This phase took 0.000102 s.Wed Dec  1 02:14:14 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:17:22 2021
+This phase took 9.1e-05 s.Wed Dec  1 02:17:22 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:18:59 2021
+This phase took 8.2e-05 s.Wed Dec  1 02:18:59 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:26:39 2021
+This phase took 8.2e-05 s.Wed Dec  1 02:26:39 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:27:10 2021
+This phase took 7.6e-05 s.Wed Dec  1 02:27:10 2021
+Message: Client finish encrypting
+Time： Wed Dec  1 02:27:11 2021
+Runtime of clients is 0.25479 s.Wed Dec  1 02:27:11 2021
+Message: AC finish encrypting
+Time： Wed Dec  1 02:27:11 2021
+Runtime of AC is 0.242635 s.Wed Dec  1 02:27:11 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Wed Dec  1 02:27:58 2021
+This phase took 0.000112 s.Wed Dec  1 02:27:58 2021
+Message: Client finish encrypting
+Time： Wed Dec  1 02:27:58 2021
+Runtime of clients is 0.251553 s.Wed Dec  1 02:27:58 2021
+Message: AC finish encrypting
+Time： Wed Dec  1 02:27:58 2021
+Runtime of AC is 0.247952 s.Wed Dec  1 02:27:58 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:21:20 2021
+This phase took 0.000112 s.Thu Dec  2 00:21:20 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:21:20 2021
+Runtime of clients is 0.262322 s.Thu Dec  2 00:21:20 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:21:21 2021
+Runtime of AC is 0.25161 s.Thu Dec  2 00:21:21 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:22:41 2021
+This phase took 8.2e-05 s.Thu Dec  2 00:22:41 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:22:41 2021
+Runtime of clients is 0.256357 s.Thu Dec  2 00:22:41 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:22:42 2021
+Runtime of AC is 0.244011 s.Thu Dec  2 00:22:42 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:24:27 2021
+This phase took 0.000123 s.Thu Dec  2 00:24:27 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:24:27 2021
+Runtime of clients is 0.251407 s.Thu Dec  2 00:24:27 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:24:28 2021
+Runtime of AC is 0.239835 s.Thu Dec  2 00:24:28 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:46:08 2021
+This phase took 9.3e-05 s.Thu Dec  2 00:46:08 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:46:08 2021
+Runtime of clients is 0.259657 s.Thu Dec  2 00:46:08 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:46:08 2021
+Runtime of AC is 0.247699 s.Thu Dec  2 00:46:08 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:46:36 2021
+This phase took 8.1e-05 s.Thu Dec  2 00:46:36 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:46:36 2021
+Runtime of clients is 0.250965 s.Thu Dec  2 00:46:36 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:46:36 2021
+Runtime of AC is 0.227112 s.Thu Dec  2 00:46:36 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:47:31 2021
+This phase took 0.000121 s.Thu Dec  2 00:47:31 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:47:32 2021
+Runtime of clients is 0.25997 s.Thu Dec  2 00:47:32 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:47:32 2021
+Runtime of AC is 0.252754 s.Thu Dec  2 00:47:32 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:48:25 2021
+This phase took 9.6e-05 s.Thu Dec  2 00:48:25 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:48:26 2021
+Runtime of clients is 0.256412 s.Thu Dec  2 00:48:26 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:48:26 2021
+Runtime of AC is 0.24599 s.Thu Dec  2 00:48:26 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:49:08 2021
+This phase took 8.8e-05 s.Thu Dec  2 00:49:08 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:49:08 2021
+Runtime of clients is 0.252385 s.Thu Dec  2 00:49:08 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:49:09 2021
+Runtime of AC is 0.247617 s.Thu Dec  2 00:49:09 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:50:03 2021
+This phase took 8.6e-05 s.Thu Dec  2 00:50:03 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:50:03 2021
+Runtime of clients is 0.257019 s.Thu Dec  2 00:50:03 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:50:04 2021
+Runtime of AC is 0.251544 s.Thu Dec  2 00:50:04 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:53:29 2021
+This phase took 0.000125 s.Thu Dec  2 00:53:29 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:53:29 2021
+Runtime of clients is 0.239277 s.Thu Dec  2 00:53:29 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:53:30 2021
+Runtime of AC is 0.242436 s.Thu Dec  2 00:53:30 2021
+Message: !!@@!Protocol formally begin!@@!!
+Time： Thu Dec  2 00:54:15 2021
+This phase took 0.000133 s.Thu Dec  2 00:54:15 2021
+Message: Client finish encrypting
+Time： Thu Dec  2 00:54:15 2021
+Runtime of clients is 0.255281 s.Thu Dec  2 00:54:15 2021
+Message: AC finish encrypting
+Time： Thu Dec  2 00:54:15 2021
+Runtime of AC is 0.248313 s.Thu Dec  2 00:54:15 2021
+Message: Calculation of server 0 is completed.
+Time： Thu Dec  2 00:54:23 2021
+Runtime of server 0 is 7.32859 s.Thu Dec  2 00:54:23 2021
+Message: Calculation of server 1 is completed.
+Time： Thu Dec  2 00:54:29 2021
+Runtime of server 1 is 6.58097 s.Thu Dec  2 00:54:29 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 00:54:29 2021
+This phase took 9.3e-05 s.Thu Dec  2 00:54:29 2021
+Message: Calculation of server 0 is completed.
+Time： Thu Dec  2 00:54:36 2021
+Runtime of server 0 is 6.87763 s.Thu Dec  2 00:54:36 2021
+Message: Calculation of server 1 is completed.
+Time： Thu Dec  2 00:54:43 2021
+Runtime of server 1 is 6.78857 s.Thu Dec  2 00:54:43 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 00:54:43 2021
+This phase took 9.3e-05 s.Thu Dec  2 00:54:43 2021
+Message: Calculation of server 0 is completed.
+Time： Thu Dec  2 00:54:49 2021
+Runtime of server 0 is 6.5648 s.Thu Dec  2 00:54:49 2021
+Message: Calculation of server 1 is completed.
+Time： Thu Dec  2 00:54:56 2021
+Runtime of server 1 is 6.76694 s.Thu Dec  2 00:54:56 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 00:54:56 2021
+This phase took 9.7e-05 s.Thu Dec  2 00:54:56 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:26:06 2021
+This phase took 9.30922 s.Thu Dec  2 02:26:06 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:26:15 2021
+This phase took 8.92667 s.Thu Dec  2 02:26:15 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:26:24 2021
+This phase took 8.87512 s.Thu Dec  2 02:26:24 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 02:30:24 2021
+This phase took 8.79492 s.Thu Dec  2 02:30:24 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:30:32 2021
+This phase took 8.18858 s.Thu Dec  2 02:30:32 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 02:30:41 2021
+This phase took 8.32613 s.Thu Dec  2 02:30:41 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 02:34:49 2021
+This phase took 8.49959 s.Thu Dec  2 02:34:49 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:34:56 2021
+This phase took 7.0967 s.Thu Dec  2 02:34:56 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 02:35:04 2021
+This phase took 7.31592 s.Thu Dec  2 02:35:04 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 02:36:45 2021
+This phase took 8.20988 s.Thu Dec  2 02:36:45 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:36:53 2021
+This phase took 7.885 s.Thu Dec  2 02:36:53 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 02:37:00 2021
+This phase took 7.16701 s.Thu Dec  2 02:37:00 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 02:39:35 2021
+This phase took 8.39397 s.Thu Dec  2 02:39:35 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:39:43 2021
+This phase took 7.76675 s.Thu Dec  2 02:39:43 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 02:41:21 2021
+This phase took 7.64239 s.Thu Dec  2 02:41:21 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:41:28 2021
+This phase took 7.76876 s.Thu Dec  2 02:41:28 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 02:41:36 2021
+This phase took 7.53468 s.Thu Dec  2 02:41:36 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 02:45:26 2021
+Runtime of server 0 is 7.70216 s.Thu Dec  2 02:45:26 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 02:45:34 2021
+Runtime of server 0 is 7.71567 s.Thu Dec  2 02:45:34 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 02:45:41 2021
+Runtime of server 0 is 7.73452 s.Thu Dec  2 02:45:41 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 06:15:44 2021
+Runtime of server 0 is 8.76351 s.Thu Dec  2 06:15:44 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 06:15:52 2021
+Runtime of server 0 is 7.81026 s.Thu Dec  2 06:15:52 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 06:16:00 2021
+Runtime of server 0 is 8.02496 s.Thu Dec  2 06:16:00 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 06:16:35 2021
+Runtime of server 0 is 8.59586 s.Thu Dec  2 06:16:35 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 06:16:44 2021
+Runtime of server 0 is 8.16837 s.Thu Dec  2 06:16:44 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 06:16:51 2021
+Runtime of server 0 is 7.70326 s.Thu Dec  2 06:16:51 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 06:19:20 2021
+Runtime of server 0 is 9.14743 s.Thu Dec  2 06:19:20 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 06:19:28 2021
+Runtime of server 0 is 8.60793 s.Thu Dec  2 06:19:28 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 06:19:37 2021
+Runtime of server 0 is 8.70349 s.Thu Dec  2 06:19:37 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 06:20:20 2021
+Runtime of server 0 is 9.29064 s.Thu Dec  2 06:20:20 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 06:20:29 2021
+Runtime of server 0 is 8.73874 s.Thu Dec  2 06:20:29 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 06:20:38 2021
+Runtime of server 0 is 8.93367 s.Thu Dec  2 06:20:38 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 06:30:23 2021
+Runtime of server 0 is 8.5321 s.Thu Dec  2 06:30:23 2021
+Message: ---*** Test for No. 1 sample is over. ***---
+Time： Thu Dec  2 06:30:32 2021
+Runtime of server 0 is 8.17388 s.Thu Dec  2 06:30:32 2021
+Message: ---*** Test for No. 2 sample is over. ***---
+Time： Thu Dec  2 06:30:40 2021
+Runtime of server 0 is 8.28884 s.Thu Dec  2 06:30:40 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Thu Dec  2 18:58:30 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Sat Dec  4 01:41:09 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Sat Dec  4 05:07:00 2021
+Message: ---*** Test for No. 0 sample is over. ***---
+Time： Sat Dec  4 06:19:18 2021
